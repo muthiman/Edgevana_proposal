@@ -82,7 +82,7 @@ With the ideal set reached, APR smoothly settles at 5%, keeping long‑run infla
 | Memorandum of Understanding signed | **15 May 2025** |
 | Infrastructure provisioned | **22 May 2025** |
 | Validator live | **29 May 2025** |
-| Incentive window ends | **1 Dec 2025** |
+| Incentive window reviewed | **1 Dec 2025** |
 | Delegation review | **Dec 2025** |
 
 ---
