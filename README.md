@@ -21,7 +21,7 @@ The blockchain is secured by **1 billion INT3** via a dynamic **inflation‑defl
 | Item | Terms |
 |------|-------|
 | **Validator‑set target** | 19 active validators (currently < 10) |
-| **Up‑front hardware / hosting cost** | **$0** – fully covered by the Foundation |
+| **Up‑front cost** | **$0** – full |
 | **INT3 purchase requirement** | **$50,000 – $200,000** ≈ 1–4 M INT3 |
 | **Foundation delegation** | **+100% stake match** for the **first 6 months** |
 | **Reward corridor (APR)** | 5% – 20%, adaptive |
