@@ -6,7 +6,13 @@
 ---
 
 ## 1&nbsp;· Executive Summary
-Int3facechain is a high‑performance, EVM‑compatible L1 securing **1 billion INT3** via a dynamic **inflation‑deflation monetary design**. To deepen decentralisation and throughput we seek premier infrastructure partners. We invite **Edgevana** to operate a validator under a six‑month incentive programme that minimises capital outlay yet delivers attractive upside.
+Bitfrost is a high-performance Layer-1 blockchain implementing a novel leaderless, dynamic Threshold Signature Scheme (TSS) for secure cross-chain asset transfers. Built using a modified Cosmos SDK with Proof-of-Authority consensus, Bitfrost establishes trust-minimised bridges between heterogeneous blockchain architectures, particularly focusing on unlocking UTXO-based assets for broader ecosystem utility.
+The protocol’s core innovation lies in its dynamic validator set implementation that,unlike previous TSS implementations requiring periodic key rotations during validator changes, Bitfrost’s architecture allows continuous operation with dynamic membership adjustments without interrupting service. The system employs a distributed multi-party computation (MPC) security model where no single validator possesses complete key material, yet a supermajority can collaboratively generate cryptographic signatures for cross-chain transactions.
+
+Bitfrost’s bridge infrastructure comprises specialised validator components—scanners monitoring source chains for relevant transactions, observers validating transaction data, signers participating in the leaderless ECDSA threshold signature scheme, and clients broadcasting validated transactions to destination chains. This architecture currently facilitates $200K-$2M in daily transaction volume between UTXO chains and the Cosmos ecosystem.
+
+
+The Blockchain is secured by **1 billion INT3** via a dynamic **inflation‑deflation monetary design**. To deepen decentralisation and throughput we seek premier infrastructure partners. We invite **Edgevana** to operate a validator under a six‑month incentive programme that minimises capital outlay yet delivers attractive upside.
 
 ---
 
